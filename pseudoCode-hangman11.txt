@@ -1,0 +1,7 @@
+1) node file runs and is initialized
+
+2) machine asks if user is ready
+
+3) random word is generated - blank underscores print to screen to show how many letters are in the random secrete word
+
+4) 
